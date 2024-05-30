@@ -1,1 +1,1 @@
-Very first file for learning Git.
+Very first file for learning GitHub.
