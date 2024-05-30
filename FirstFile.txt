@@ -1,0 +1,1 @@
+Very first file for learning Git.
